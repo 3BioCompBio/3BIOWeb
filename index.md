@@ -5,9 +5,9 @@
 ```markdown
 
 1. Martin Schwersensky*, Marianne Rooman* & Fabrizio Pucci* 
-Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
-and codon usage for protein mutational robustness
-BMC Biology 18, Article number: 146. October 2020 
+[Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
+and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00870-9)
+**BMC Biology** 18, 146. October 2020 
 
 [Link](url) and ![Image](src)
 
