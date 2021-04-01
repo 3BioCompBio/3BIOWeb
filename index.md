@@ -1,6 +1,6 @@
 **Publications** 
 
--Academic year 2020-2021
+Academic year 2020-2021
 
 1. Martin Schwersensky#, Marianne Rooman# & Fabrizio Pucci#, 
 [Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
