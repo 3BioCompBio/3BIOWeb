@@ -1,13 +1,15 @@
 ## 3BIO-Computational Biology and Bioinformatic group (ULB)
 
-# Pubblication 2020-2021
+# Pubblications 2020-2021
 
 ```markdown
 Syntax highlighted code block
 
 
-1. **October 2020.** M. Martin Schwersensky, Marianne Rooman & Fabrizio Pucci 
-_Large-scale in silico mutagenesis experiments reveal optimization of genetic code and codon usage for protein mutational robustness_
+1. Martin Schwersensky, Marianne Rooman & Fabrizio Pucci 
+Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
+and codon usage for protein mutational robustness.
+BMC Biology 18, Article number: 146. October 2020 
 
 [Link](url) and ![Image](src)
 
