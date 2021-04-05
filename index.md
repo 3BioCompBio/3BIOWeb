@@ -13,7 +13,3 @@
 [Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
 and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00870-9),
 **BMC Biology** (2020) 18, 146 [IF 6.8]. 
-
-
-
-**Academic year 10/2019-09/2020**
