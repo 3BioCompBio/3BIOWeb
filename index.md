@@ -1,3 +1,11 @@
+# Research Interests
+
+1. Protein Engineering and Design
+2. Genetic Variant Analysis 
+3. Molecular Evolution
+4. Mathematical Modeling
+5. ImmunoInformatics
+
 # Publications 
 
 List of 5 most recent pubblications
