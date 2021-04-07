@@ -3,7 +3,7 @@
 Computational Biophysicist\
 Senior Postdoctoral Researcher\
 Université Libre de Bruxelles\
-Avenue Franklin Roosevelt 50, 1050 Bruxelles, Belgium\
+Avenue Franklin Roosevelt 50, 1050 Bruxelles\
 email: fapucci at ulb.ac.be
 
 # Research Interests
