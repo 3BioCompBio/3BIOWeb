@@ -23,7 +23,7 @@ and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral
 **Methods in Molecular Biology** (2020), Structural Bioinformatics 59-73, 2112.
 
 
-Full List of pubblication on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
+Full List of pubblications on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
 
 
 
