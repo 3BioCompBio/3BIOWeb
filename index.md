@@ -1,6 +1,6 @@
 # Fabrizio Pucci
 
-Senior Postdoctoral Researcher&nbsp;
+Senior Postdoctoral Researcher/
 Université Libre de Bruxelles
 
 Avenue Franklin Roosevelt 50, 1050 Bruxelles, Belgium
