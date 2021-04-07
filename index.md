@@ -1,6 +1,6 @@
 # Fabrizio Pucci
 
-Senior Postdoctoral Researcher\
+Computational Biophysicst, Senior Postdoctoral Researcher\
 Université Libre de Bruxelles\
 Avenue Franklin Roosevelt 50, 1050 Bruxelles, Belgium\
 email: fapucci at ulb.ac.be
