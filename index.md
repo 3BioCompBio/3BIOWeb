@@ -31,7 +31,7 @@ and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral
 **BMC Biology** (2020) 18, 146 [IF 6.8]. 
 
 4. Fabrizio Pucci#, Mehari Zerihun#, Emanuel K. Peter, Alexander Schug, 
-[Evaluating DCA-based method performancesfor RNA contact prediction by a well-curated dataset](https://rnajournal.cshlp.org/content/26/7/794.long), 
+[Evaluating DCA-based method performances for RNA contact prediction by a well-curated dataset](https://rnajournal.cshlp.org/content/26/7/794.long), 
 **RNA** (2020) 26, 794-802 [IF 3.8]
 
 5. Fabrizio Pucci, Jean Marc Kwasigroch, Marianne Rooman, 
