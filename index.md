@@ -50,5 +50,5 @@ Postdoc in Computational Biology, Universite Libre de Bruxelles (BE)\
 Postdoc in Theoretical Physics, Bielefeld University (DE)\
 PhD in Theoretical Physics, Univerity of Florence (IT)\
 Master in Renewable Energy Systems, University of Pisa (IT)\
-Master in Theoretical Physics, University of Pisa (IT)\
+Master in Theoretical Physics, University of Pisa (IT)
 
