@@ -42,13 +42,6 @@ and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral
 Full List of pubblications on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
 
 
-# Research Experiences
+# Teaching 
 
-Senior Postdoc in Computational Biology, Université Libre de Bruxelles (BE)\
-Postdoc in Computaional Biology, Juelich Supercomputer Center (DE)\
-Postdoc in Computational Biology, Université Libre de Bruxelles (BE)\
-Postdoc in Theoretical Physics, Bielefeld University (DE)\
-PhD in Theoretical Physics, Univerity of Florence (IT)\
-Master in Renewable Energy Systems, University of Pisa (IT)\
-Master in Theoretical Physics, University of Pisa (IT)
-
+Biophysics and structural bioinformatics II (ULB, BINF-F405)
