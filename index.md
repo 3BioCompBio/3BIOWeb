@@ -44,4 +44,4 @@ Full List of pubblications on [Google Scholar](https://scholar.google.it/citatio
 
 # Teaching 
 
-Biophysics and structural bioinformatics II (ULB, BINF-F405)
+Biophysics and structural bioinformatics I, II (ULB)
