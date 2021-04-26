@@ -19,7 +19,7 @@ email: fapucci at ulb.ac.be
 List of 5 most recent pubblications
 
 1. François Ancien, Fabrizio Pucci# & Marianne Rooman#, 
-[In silico analysis of the molecular-level impact of SMPD1 variants on Niemann-Pick disease severity”](https://www.mdpi.com/1422-0067/22/9/4516) 
+[In silico analysis of the molecular-level impact of SMPD1 variants on Niemann-Pick disease severity”](https://www.mdpi.com/1422-0067/22/9/4516), 
 International Journal of Molecular Science 22(9), 4516 (2021) [IF 4.6]. 
 
 2. Qingzhen Hou#, Fabrizio Pucci#, François Ancien, Jean Marc Kwasigroch, Raphaël Bourgeas, Marianne Rooman,
