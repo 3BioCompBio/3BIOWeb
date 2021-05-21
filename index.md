@@ -18,8 +18,11 @@ email: fapucci at ulb.ac.be
 
 List of 5 most recent pubblications
 
+1. Fabrizio Pucci & Marianne Rooman, 
+[Prediction and Evolution of the Molecular Fitness of SARS-CoV-2 Variants: Introducing SpikePro](https://www.mdpi.com/1999-4915/13/5/935), **Viruses** (2021) 13(5), 935 [IF 3.8]. 
+
 1. François Ancien, Fabrizio Pucci# & Marianne Rooman#, 
-[In silico analysis of the molecular-level impact of SMPD1 variants on Niemann-Pick disease severity”](https://www.mdpi.com/1422-0067/22/9/4516), **International Journal of Molecular Sciences** (2021) 22(9), 4516 [IF 4.6]. 
+[In silico analysis of the molecular-level impact of SMPD1 variants on Niemann-Pick disease severity](https://www.mdpi.com/1422-0067/22/9/4516), **International Journal of Molecular Sciences** (2021) 22(9), 4516 [IF 4.6]. 
 
 2. Qingzhen Hou#, Fabrizio Pucci#, François Ancien, Jean Marc Kwasigroch, Raphaël Bourgeas, Marianne Rooman,
 [SWOTein: a structure-based approach to predict stability Strengths and Weaknesses of prOTEINs](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab034/6104845), **Bioinformatics** (2021) btab034 [IF 5.6]. 
@@ -32,11 +35,6 @@ List of 5 most recent pubblications
 [Large-scale in silico mutagenesis experiments reveal optimization of genetic code 
 and codon usage for protein mutational robustness](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00870-9),
 **BMC Biology** (2020) 18, 146 [IF 6.8]. 
-
-5. Fabrizio Pucci#, Mehari Zerihun#, Emanuel K. Peter, Alexander Schug, 
-[Evaluating DCA-based method performances for RNA contact prediction by a well-curated dataset](https://rnajournal.cshlp.org/content/26/7/794.long), 
-**RNA** (2020) 26, 794-802 [IF 3.8]
-
 
 Full List of pubblications on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
 
