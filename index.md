@@ -19,7 +19,7 @@ email: fapucci at ulb.ac.be
 List of 5 most recent pubblications
 
 1. Fabrizio Pucci, Filippo Annoni, Robson Augusto Souza dos Santos, Fabio Silvio Taccone, Marianne Rooman, 
-[Quantifying  renin-angiotensin-system alterations in COVID-19](https://www.mdpi.com/2073-4409/10/10/2755), **Cells** 10(10), 2755 (2021) [IF 6.6]. 
+[Quantifying  renin-angiotensin-system alterations in COVID-19](https://www.mdpi.com/2073-4409/10/10/2755), **Cells** (2021) 10(10), 2755 [IF 6.6]. 
 
 1. François Ancien, Fabrizio Pucci, Wim Vranken, Marianne Rooman, 
 [MutaFrame - an interpretative visualization framework for deleteriousness prediction of missense variants in the human exome](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab453/6308935), **Bioinformatics** (2021) btab453 [IF 6.9]. 
