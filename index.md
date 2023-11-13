@@ -32,6 +32,6 @@ Full List of pubblications on [Google Scholar](https://scholar.google.it/citatio
 
 # Teaching 
 
-Biophysics and structural bioinformatics I, BINF-F403 (ULB, Bruxelles)
-Biophysics and structural bioinformatics II, BINF-F405 (ULB, Bruxelles)
+Biophysics and structural bioinformatics I, BINF-F403 (ULB, Bruxelles)\
+Biophysics and structural bioinformatics II, BINF-F405 (ULB, Bruxelles)\
 Introduction à la bioinformatique et à ses applications, BING-H5000 (ULB, Bruxelles)
