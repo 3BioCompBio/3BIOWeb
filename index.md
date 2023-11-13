@@ -25,7 +25,7 @@ Qingzhen Hou, Marianne Rooman#, and Fabrizio Pucci#,
 [Enzyme Stability-Activity Trade-Off: New Insights from Protein Stability Weaknesses and Evolutionary Conservation](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00036), **J. Chem. Theory Comput.** (2023) 19, 3664-3671.
 
 Marianne Rooman and Fabrizio Pucci,
-[Estimating the vertical ionization potential of single-stranded DNA molecules](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01525), **J. Chem. Inf. Model.** (2023) 63, 1766–1775 [IF 6.2].
+[Estimating the vertical ionization potential of single-stranded DNA molecules](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01525), **J. Chem. Inf. Model.** (2023) 63, 1766–1775.
 
 Full List of pubblications on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
 
@@ -36,5 +36,4 @@ Biophysics and structural bioinformatics I, BINF-F403 (ULB, Bruxelles)\
 Biophysics and structural bioinformatics II, BINF-F405 (ULB, Bruxelles)\
 Introduction à la bioinformatique et à ses applications, BING-H5000 (ULB, Bruxelles)
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+![Repository Views](https://komarev.com/ghpvc/?username=3BioCompBio&label=Repository+Views)
