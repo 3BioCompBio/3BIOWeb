@@ -14,21 +14,23 @@ email: fapucci at ulb.ac.be
 4. Mathematical Modeling
 5. ImmunoInformatics
 
+
 # Publications 
 
-Most recent pubblications
+Bibliometric: h-index 25, i10-index 36, citations 1819.
 
-Gabriel Cia, Jean-Marc Kwasigroch, Basile Stamatopoulos, Marianne Rooman#, and Fabrizio Pucci#,  
-[pyScoMotif: Discovery of similar 3D structural motifs across proteins](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad158/7338259), **Bioinformatics Advances** (2023) 3, vbad158.
+Most cited works:
 
-Qingzhen Hou, Marianne Rooman#, and Fabrizio Pucci#, 
-[Enzyme Stability-Activity Trade-Off: New Insights from Protein Stability Weaknesses and Evolutionary Conservation](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00036), **J. Chem. Theory Comput.** (2023) 19, 3664-3671.
+Fabrizio Pucci and Marianne Rooman, 
+[Physical and molecular bases of protein thermal stability and cold adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0959440X16302354), **Current Opinion in Structural Biology** (2017) 42, 117-128.
 
-Marianne Rooman and Fabrizio Pucci,
-[Estimating the vertical ionization potential of single-stranded DNA molecules](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01525), **J. Chem. Inf. Model.** (2023) 63, 1766–1775.
+Fabrizio Pucci, Katrien V Bernaerts, Jean Marc Kwasigroch, Marianne Rooman
+[Quantification of biases in predictions of protein stability changes upon mutations](https://academic.oup.com/bioinformatics/article/34/21/3659/4987874), **Bioinformatics** (2018) 34, 3659–3665.
+
+Fabrizio Pucci, Raphaël Bourgeas, Marianne Rooman
+[Predicting protein thermal stability changes upon point mutations using statistical potentials: Introducing HoTMuSiC](https://www.nature.com/articles/srep23257), **Scientific Reports** (2016) 6, 23257.
 
 Full List of pubblications on [Google Scholar](https://scholar.google.it/citations?user=ZkTBzvwAAAAJ&hl=it)
-
 
 # Teaching 
 
