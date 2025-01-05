@@ -41,9 +41,9 @@ Connaissances fondamentales et éléments de physique, PHYS-H101 (ULB, Bruxelles
 
 # Supervision 
 
-11 PhD students, 18 Master thesis, 9 Internships\
+11 PhD students, 18 Master thesis, 9 Internships
 
-**Current Lab Members**: Prof. Fabrizio Pucci (PI), Prof. Marianne Rooman (PI), Simone Attanasio, Matsvei Tsishyn, Pauline Hermans, Benoıt de Witte, Dong Li, Gregory Coolen, Romain Debruyne, Matthias Reveillard, Thibault Legrand, Andre Ciupitu\
+**Current Lab Members**: Prof. Fabrizio Pucci (PI), Prof. Marianne Rooman (PI), Simone Attanasio, Matsvei Tsishyn, Pauline Hermans, Benoıt de Witte, Dong Li, Gregory Coolen, Romain Debruyne, Matthias Reveillard, Thibault Legrand, Andre Ciupitu
 
 **PhD Alumni**: Gabriel Cia, Martin Schwersensky, François Ancien, Mehari Zerihun, Mame Ndew Mbaye 
 
