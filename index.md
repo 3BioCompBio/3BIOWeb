@@ -4,7 +4,7 @@ Assistant Professor\
 3BIO-Computational Biology and Bioinformatics\
 Université Libre de Bruxelles\
 Avenue Franklin Roosevelt 50, 1050 Bruxelles\
-email: fapucci at ulb.ac.be
+email: Fabrizio.Pucci at ulb.be
 
 # Research Interests
 
